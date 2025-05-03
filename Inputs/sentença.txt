@@ -1,6 +1,39 @@
 Neste desafio, coletei no site de dbusca alguns artigos sobre saúde mental.
-Com base neste tema criei o chat boot para auxiliar na busca  de informações nos pdfs coletados.
+
+Com base neste tema criei o chatboot para auxiliar na busca de informações nos pdfs coletados.
 
 O mais interessante é facilidade para criar o chatboot, que auxilia muito nesse caso.
 
 Dentro desta pasta compartilho os artigos coletados.
+
+
+Conclusão:
+
+A criação deste chatbot baseado em inteligência artificial mostrou-se extremamente eficiente para lidar com grandes volumes de informação textual, como artigos científicos e documentos técnicos. A capacidade de transformar conteúdo em representações vetoriais, combinada com a busca semântica, permite extrair insights de forma precisa e contextualizada.
+
+Com esse sistema, é possível:
+
+-> Acelerar o processo de revisão bibliográfica em projetos acadêmicos.
+
+-> Localizar rapidamente trechos específicos em documentos extensos.
+
+-> Criar uma interface de perguntas e respostas baseada em conteúdo personalizado.
+
+-> Escalar para uso em outras áreas, como jurídico (análise de jurisprudência), saúde (prontuários médicos), ou educação (materiais de aula).
+
+O uso do Azure AI Foundry facilitou a criação de uma pipeline completa, integrando modelos de linguagem, embeddings e mecanismos de busca em uma mesma plataforma.
+
+
+Considerações Finais:
+
+Este projeto demonstrou como a combinação de inteligência artificial com técnicas modernas de recuperação de informações pode transformar a forma como interagimos com documentos complexos. A abordagem utilizada não só melhora a eficiência na busca por informações, como também abre caminho para assistentes personalizados de leitura, que auxiliam na compreensão e análise de conteúdo.
+
+Durante o desenvolvimento, foi possível aprender na prática sobre:
+
+A estruturação de projetos com IA generativa no Azure.
+
+A aplicação de modelos de embedding para indexação semântica.
+
+A criação de experiências interativas de chat com contexto personalizado.
+
+O resultado final é uma solução prática e aplicável para qualquer cenário que envolva muitos textos e necessidade de respostas precisas com base em conteúdo real.
